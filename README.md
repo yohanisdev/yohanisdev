@@ -30,6 +30,16 @@ STATUS: Always learning...
 - 🤖 Exploring AI agents, automation, and language technology.
 - 🛠️ Building practical projects that solve real problems.
 
+- ## 🌐 Explore My Portfolio
+
+<p align="center">
+  <a href="https://yohanisdev.github.io/">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+Discover my projects, explore my development journey, and see what I'm building at the intersection of full-stack development and AI.
+
 ## ⚡ Tech Stack
 
 <div align="center">
