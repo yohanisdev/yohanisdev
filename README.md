@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://yohanisdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:yohanskefyalew594@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="[mailto:yohanskefyalew594@gmail.com](https://mail.google.com/mail/u/0/#inbox)"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/yohanisdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=yohanisdev&label=Profile+Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 
