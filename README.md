@@ -103,7 +103,7 @@ I enjoy turning ideas into working software. My projects include an e-commerce p
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanisdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohanisdev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8957E5&currStreakLabel=58A6FF" alt="Streak stats" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yohanisdev)](https://git.io/streak-stats)
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yohanisdev&theme=react-dark&bg_color=0D1117&color=58A6FF&line=8957E5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
 
