@@ -5,7 +5,7 @@
 
 <!-- Animated typing line -->
 <a href="https://yohanisdev.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+practical+digital+solutions;3rd-year+CS+student+at+Jimma+University;Full-stack+%7C+Node.js+%7C+Python+%7C+React;Exploring+ML+%26+AI+agents;Build.+Learn.+Improve." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+practical+digital+solutions;3rd-year+CS+student+at+Jimma+University;Full-stack+%7C+Node.js+%7C+Python+%7C+React;Exploring+ML+%26+AI+agents;Build.+Responsive.+and.+Animated.+Web" alt="Typing animation" />
 </a>
 
 <br/>
