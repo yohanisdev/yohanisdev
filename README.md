@@ -26,8 +26,7 @@ const yohanis = {
   role: "Full-Stack Developer",
   education: "Computer Science, Jimma University (3rd year)",
   focus: ["Web applications", "Backend engineering", "Automation"],
-  learning: ["Machine Learning", "AI Agents", "Telegram Bots"],
-  mindset: "Build. Learn. Improve."
+  learning: ["Machine Learning", "AI Agents", "Telegram Bots"]
 };
 ```
 
