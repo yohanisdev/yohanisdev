@@ -91,6 +91,7 @@ I enjoy turning ideas into working software. My projects include an e-commerce p
 - **Ethio Coders:** Programming Fundamentals, Artificial Intelligence, Android Development
 - **INSA Summer Camp:** Wolaita Sodo University
 - **STEM Program:** Dilla University (certified)
+- -**cisco networking:** Dilla University (certified)
 
 <br/>
 
